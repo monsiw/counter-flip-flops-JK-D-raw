@@ -6,4 +6,4 @@ I uploaded program to Elbert v2 (Spartan 3A) trough ElbertV2Config.
 
 You can choose between flip flops using DIP Switches and write your own excitation functions into the code.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y-OebI3IoQo" frameborder="0" allowfullscreen></iframe>
+[![VIDEO](https://img.youtube.com/vi/Y-OebI3IoQo/0.jpg)](https://www.youtube.com/watch?v=Y-OebI3IoQo)
